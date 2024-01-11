@@ -11,7 +11,8 @@ Implemented a reset button to reset the count to 0.
 HTML for structuring the content.
 CSS for styling and layout.
 JavaScript for dynamic and interactive functionality.
-Key Achievements:
+
+# Key Achievements:
 
 Successfully created a user-friendly interface with intuitive buttons for a seamless user experience.
 Utilized JavaScript to manage the application's state and dynamically update the displayed count.
